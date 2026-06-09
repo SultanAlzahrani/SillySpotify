@@ -1,6 +1,6 @@
 # SillySpotify
 
-A frontend-only React dashboard that pulls your Spotify listening analytics and displays them in a stylish, aurora-themed UI. No backend, no server — everything runs in the browser using Spotify's official Web API with PKCE OAuth. Check it out Live at [SillySpotify](https://sillyspotify.sultanonline.app/).
+A frontend-only React dashboard that pulls your Spotify listening analytics and displays them in a stylish, aurora-themed UI. No backend, no server, everything runs in the browser using Spotify's official Web API with PKCE OAuth. Check it out Live at [SillySpotify](https://sillyspotify.sultanonline.app/).
 
 ---
 
