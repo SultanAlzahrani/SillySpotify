@@ -1,0 +1,2 @@
+To run in dev mode:
+npm run dev -- --host 127.0.0.1
