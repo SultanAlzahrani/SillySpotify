@@ -1,6 +1,8 @@
 # SillySpotify
 
-A frontend-only React dashboard that pulls your Spotify listening analytics and displays them in a stylish, aurora-themed UI. No backend, no server, everything runs in the browser using Spotify's official Web API with PKCE OAuth. Check it out Live at [SillySpotify](https://sillyspotify.sultanonline.app/).
+A frontend-only React dashboard that pulls your Spotify listening analytics and displays them in a stylish, aurora-themed UI. No backend, no server, everything runs in the browser using Spotify's official Web API with PKCE OAuth. 
+
+Due to limitation on how spotify handle their API, im not able to host it for public use. Please download the project and follow the "Setup" Section below".
 
 ---
 
@@ -12,6 +14,16 @@ A frontend-only React dashboard that pulls your Spotify listening analytics and 
 - **Recently Played** — last 15 tracks with relative timestamps
 - **Stat Cards** — quick-glance numbers across all categories
 - **Time Range Toggle** — switch between 4 weeks, 6 months, and all time
+
+---
+## Showcase
+
+### Landing page
+![Landing Page](screenshots/landing.png)
+
+
+### Stats Results
+![Results Page](screenshots/results.png)
 
 ---
 
